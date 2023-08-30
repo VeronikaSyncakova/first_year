@@ -4,9 +4,9 @@ body{
 	}
 .links{ 
 	width:15%; 
-	margin-right:200px;
 	background-color: #ffff99;
 	border: 1px solid black;
+	margine-right:10%;
         }
 .div{
       margin-left:15%;
