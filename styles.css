@@ -1,8 +1,10 @@
 body{
 	font-family: sans-serif;
+	background-color:powderblue;
 	}
 .links{ 
-	width:15%;    
+	width:15%; 
+	background-color: yellow;
         }
 .div{
       margin-left:15%;
