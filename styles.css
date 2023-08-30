@@ -3,10 +3,9 @@ body{
 	background-color:#99ccff;
 	}
 .links{ 
-	width:15%; 
+	width:10%; 
 	background-color: #ffff99;
-	border: 3px solid black;
-	margine-right:10%;
+	border: 2px solid black;
         }
 .div{
       margin-left:15%;
