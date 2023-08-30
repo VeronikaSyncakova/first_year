@@ -2,7 +2,7 @@ body{
 	font-family: sans-serif;
 	background-color:#99ccff;
 	}
-.links{ 
+.links a{ 
 	width:12%; 
 	background-color: #ffff99;
 	border: 2px solid black;
