@@ -5,9 +5,10 @@ body{
 .links { 
 	width:12%; 
 	background-color: #ffff99;
-	padding:0px;
+	padding:10px;
         }
 .links a{
+	display: block;
 	padding:10px;
 	border: 2px solid black;
 	}
