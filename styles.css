@@ -4,11 +4,11 @@ body{
 	}
 .links { 
 	width:12%; 
-	background-color: #ffff99;
-	padding:10px;
+	/*padding:10px;*/
         }
 .links a{
 	display: block;
+	background-color: #ffff99;
 	padding:10px;
 	border: 2px solid black;
 	}
